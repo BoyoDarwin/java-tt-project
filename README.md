@@ -2,7 +2,7 @@
 
 ## Motivation
 
-Why not tbh, darwin just wants to learn java
+Why not
 
 ## Installation
 
